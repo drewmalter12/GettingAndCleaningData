@@ -18,4 +18,19 @@
 * tidyData.txt - The output from the code contained in the R script
 * codebook.md - The description of the variables in runAnalysis.R
 
+# Original Data given
+* features.txt: List of all features.
 
+* activity_labels.txt: List of class labels and their activity name.
+
+* train/X_train.txt: Training set.
+
+*train/y_train.txt: Training labels.
+
+*train/subject_train.txt: IDs of subjects in the training data
+
+* test/X_test.txt: Test set.
+
+* test/y_test.txt: Test labels.
+
+* test/subject_test.txt: IDs of subjects in the testing data
