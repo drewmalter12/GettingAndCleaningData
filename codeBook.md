@@ -1,6 +1,9 @@
+# CodeBook
+This codebook is for reference to information about the identifiers and variables in runAnalysis.R
+
 # Identifiers
 
-* subject - Identity of the test subject
+* subject - Identity of the test subject (Numbered 1:30)
 * activity - The activity being perfomed for each corresponding test (walking, standing, sitting, walking upstairs, walking downstaris, laying)
 
 # Measurements
