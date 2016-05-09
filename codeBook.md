@@ -1,5 +1,5 @@
 # CodeBook
-This codebook is for reference to information about the identifiers and variables in runAnalysis.R
+This codebook is for reference to information about the identifiers and variables in runAnalysis.R 
 
 # Identifiers
 
