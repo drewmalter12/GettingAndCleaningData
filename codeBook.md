@@ -5,8 +5,8 @@ activity - The activity being perfomed for each corresponding test (walking, sta
 
 # Measurements
 
-*tBodyAccMeanX
-*tBodyAccMeanY
+* tBodyAccMeanX
+* tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
