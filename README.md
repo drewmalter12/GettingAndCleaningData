@@ -25,9 +25,9 @@
 
 * train/X_train.txt: Training set.
 
-*train/y_train.txt: Training labels.
+* train/y_train.txt: Training labels.
 
-*train/subject_train.txt: IDs of subjects in the training data
+* train/subject_train.txt: IDs of subjects in the training data
 
 * test/X_test.txt: Test set.
 
