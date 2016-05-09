@@ -18,7 +18,8 @@
 * tidyData.txt - The output from the code contained in the R script
 * codebook.md - The description of the variables in runAnalysis.R
 
-# Original Data given
+# Original Data Provided
+
 * features.txt: List of all features.
 
 * activity_labels.txt: List of class labels and their activity name.
