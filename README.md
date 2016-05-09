@@ -14,7 +14,7 @@
 
 # Elements in the Repository:
 
-Readme.md - This file
-runAnalysis.R - The R script that outputs the file tidyData.txt
-tidyData.txt - The output from the code contained in the R script
-codebook.md - The description of the variables in runAnalysis.R
+* Readme.md - This file
+* runAnalysis.R - The R script that outputs the file tidyData.txt
+* tidyData.txt - The output from the code contained in the R script
+* codebook.md - The description of the variables in runAnalysis.R
