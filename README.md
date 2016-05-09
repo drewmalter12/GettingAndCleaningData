@@ -39,7 +39,7 @@
 
 # How the script works
 
-* First the plyr package was installed
+* First the plyr package was installed, which make it useful to split data and do much more with it
 * It then reads in all of the provided data files
 * rbind is then used to merge the corresponding data sets into one
 * The grep function is used to extract the columns with mean() and std() values and forms a new data frame with the "activity_id", the "subject_id" and the mean() and std() columns
