@@ -1,7 +1,5 @@
-# GettingAndCleaningData
+# Steps for runAnalysis.R
 
-
-Steps for runAnalysis.R
 
 1) Merges the training and the test sets to create one data set.
 
@@ -14,7 +12,7 @@ Steps for runAnalysis.R
 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Elements in the Repository:
+# Elements in the Repository:
 
 Readme.md - This file
 runAnalysis.R - The R script that outputs the file tidyData.txt
