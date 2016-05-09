@@ -1,4 +1,4 @@
-# Instructions for the project GettingAndCleaningData
+# Steps for GettingAndCleaningData
 
 1) Merges the training and the test sets to create one data set.
 
@@ -18,4 +18,4 @@
 * tidyData.txt - The output from the code contained in the R script
 * codebook.md - The description of the variables in runAnalysis.R
 
-# Steps for runAnalysis.R
+
