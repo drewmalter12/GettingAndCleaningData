@@ -1,8 +1,10 @@
 # Identifiers
+
 subject - Identity of the test subject
 activity - The activity being perfomed for each corresponding test (walking, standing, sitting, walking upstairs, walking downstaris, laying)
 
 # Measurements
+
 tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
